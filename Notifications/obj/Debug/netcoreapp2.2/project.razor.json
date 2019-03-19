@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\LocalOnly\\Jobs\\Agencies_15022019\\Ampersand\\DoctorLink\\TestSolution\\Notifications\\Notifications\\Notifications.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

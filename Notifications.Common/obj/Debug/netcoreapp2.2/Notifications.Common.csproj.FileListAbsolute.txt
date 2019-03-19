@@ -1,0 +1,8 @@
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\bin\Debug\netcoreapp2.2\Notifications.Common.deps.json
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\bin\Debug\netcoreapp2.2\Notifications.Common.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\bin\Debug\netcoreapp2.2\Notifications.Common.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\obj\Debug\netcoreapp2.2\Notifications.Common.csproj.CoreCompileInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\obj\Debug\netcoreapp2.2\Notifications.Common.AssemblyInfoInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\obj\Debug\netcoreapp2.2\Notifications.Common.AssemblyInfo.cs
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\obj\Debug\netcoreapp2.2\Notifications.Common.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Common\obj\Debug\netcoreapp2.2\Notifications.Common.pdb

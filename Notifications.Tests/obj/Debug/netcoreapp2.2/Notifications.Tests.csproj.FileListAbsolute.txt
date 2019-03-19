@@ -1,0 +1,14 @@
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\Notifications.Tests.deps.json
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\Notifications.Tests.runtimeconfig.json
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\Notifications.Tests.runtimeconfig.dev.json
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\Notifications.Tests.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\bin\Debug\netcoreapp2.2\Notifications.Tests.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\obj\Debug\netcoreapp2.2\Notifications.Tests.csproj.CoreCompileInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\obj\Debug\netcoreapp2.2\Notifications.Tests.AssemblyInfoInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\obj\Debug\netcoreapp2.2\Notifications.Tests.AssemblyInfo.cs
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\obj\Debug\netcoreapp2.2\Notifications.Tests.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\obj\Debug\netcoreapp2.2\Notifications.Tests.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.Tests\obj\Debug\netcoreapp2.2\Notifications.Tests.csprojAssemblyReference.cache

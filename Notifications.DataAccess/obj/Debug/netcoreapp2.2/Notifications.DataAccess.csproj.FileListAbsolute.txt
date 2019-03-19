@@ -1,0 +1,14 @@
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.DataAccess.deps.json
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.DataAccess.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.DataAccess.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.csprojAssemblyReference.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.csproj.CoreCompileInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.AssemblyInfoInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.AssemblyInfo.cs
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.Common.dll
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.Common.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\obj\Debug\netcoreapp2.2\Notifications.DataAccess.csproj.CopyComplete
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.DataAccess.runtimeconfig.json
+E:\LocalOnly\Jobs\Agencies_15022019\Ampersand\DoctorLink\TestSolution\Notifications\Notifications.DataAccess\bin\Debug\netcoreapp2.2\Notifications.DataAccess.runtimeconfig.dev.json
